@@ -36,7 +36,7 @@ The script assumes that the CRC location provided is correct. It tries little-en
 
 ####Sample usage
 
-Let's analyze an uncommon protocol.  The file 'codesysv3-crc32.bin', included
+Let's analyze an uncommon protocol.  The file 'sample-crc32-packet.bin', included
 in this repository, is the data payload from a single CoDeSys V3 protocol
 packet.
 
