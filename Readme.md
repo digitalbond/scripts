@@ -50,6 +50,7 @@ the values vary greatly from one packet to the next.
 We run the crc32tester with:
 
 $ python crc32tester.py codesysv3-crc32.bin 44
+
 Candidate found. Params: trimfront 48 trimend 0 LE
 
 The output means that we trim the first 48 bytes off of the packet in order to
